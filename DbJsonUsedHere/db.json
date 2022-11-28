@@ -1,0 +1,291 @@
+{
+  "ibmstudent": [
+    {
+      "name": "pqr",
+      "last": "stw",
+      "id": 3
+    },
+    {
+      "name": "zwwwzz",
+      "last": "yyy",
+      "id": 4
+    },
+    {
+      "name": "dunit",
+      "last": "zzz",
+      "id": 5
+    },
+    {
+      "name": "www",
+      "last": "wwwwww",
+      "id": 6
+    },
+    {
+      "name": "www",
+      "last": "2434",
+      "id": 7
+    },
+    {
+      "name": "www",
+      "last": "seerte",
+      "id": 8
+    },
+    {
+      "name": "www",
+      "last": "1223",
+      "id": 9
+    },
+    {
+      "name": "Sneha",
+      "last": "More",
+      "id": 10
+    },
+    {
+      "name": "Sneh",
+      "last": "M",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "name": {
+        "description": "Hello",
+        "type": "string"
+      },
+      "age": {
+        "description": "Hello is persona",
+        "type": "number",
+        "minimum": 18,
+        "maximum": 64
+      },
+      "id": 7
+    },
+    {
+      "name": {
+        "description": "Hello 12",
+        "type": "string"
+      },
+      "age": {
+        "description": "Hello 12 is persona",
+        "type": "number",
+        "minimum": 18,
+        "maximum": 64
+      },
+      "id": 8
+    },
+    {
+      "name": {
+        "description": "Hello 1",
+        "type": "string"
+      },
+      "age": {
+        "description": "Hello 12 is persona",
+        "type": "number",
+        "minimum": 18,
+        "maximum": 64
+      },
+      "id": 9
+    },
+    {
+      "name": {
+        "description": "ABD 1",
+        "type": "string"
+      },
+      "age": {
+        "description": "Hello 12 is persona",
+        "type": "number",
+        "minimum": 18,
+        "maximum": 64
+      },
+      "id": 10
+    },
+    {
+      "name": {
+        "description": "ABD 1",
+        "type": "string"
+      },
+      "age": {
+        "description": "Hello 12 is persona",
+        "type": "number",
+        "minimum": 18,
+        "maximum": 612214
+      },
+      "id": 11
+    },
+    {
+      "name": {
+        "description": "ABD 1",
+        "type": "string"
+      },
+      "age": {
+        "description": "Hello 12 is persona",
+        "type": "number",
+        "minimum": 1222,
+        "maximum": 612214
+      },
+      "id": 12
+    },
+    {
+      "name": {
+        "description": "BELLO",
+        "type": "string"
+      },
+      "age": {
+        "description": "Hello is persona",
+        "type": "number",
+        "minimum": 18,
+        "maximum": 64
+      },
+      "id": 13
+    }
+  ],
+  "Worker": [
+    {
+      "name": "RAJ",
+      "desg": "stw",
+      "id": 1
+    },
+    {
+      "name": "RAJ",
+      "desg": "XYZ",
+      "id": 2
+    },
+    {
+      "name": "RAJ",
+      "desg": "DEV1",
+      "id": 3
+    },
+    {
+      "name": "sdsd",
+      "desg": "Manager",
+      "id": 4
+    },
+    {
+      "name": "New Data1",
+      "desg": "Data1",
+      "id": 5
+    },
+    {
+      "name": "abc",
+      "desg": "Dr",
+      "id": 6
+    },
+    {
+      "name": "START",
+      "desg": "END",
+      "id": 7
+    },
+    {
+      "name": "START",
+      "desg": "END",
+      "id": 8
+    },
+    {
+      "name": "START",
+      "desg": "END",
+      "id": 9
+    }
+  ],
+  "Employee": [
+    {
+      "name": "Sonoo",
+      "email": "CompanyID_EMP_ID1@gmail.com",
+      "salary": 56000,
+      "married": true,
+      "id": 1
+    },
+    {
+      "name": "Mono",
+      "email": "CompanyID_EMP_ID2@gmail.com",
+      "salary": 57000,
+      "married": true,
+      "id": 2
+    },
+    {
+      "name": "Mono",
+      "email": "CompanyID_EMP_ID3@gmail.com",
+      "salary": 198000,
+      "married": false,
+      "id": 3
+    },
+    {
+      "name": "Tono",
+      "email": "CompanyID_EMP_ID4@gmail.com",
+      "salary": 57000,
+      "married": true,
+      "id": 4
+    },
+    {
+      "name": "sdsd",
+      "salary": "198000",
+      "married": "false",
+      "email": "Company_id_empli_demo@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Mini",
+      "email": "bob32@gmail.com",
+      "salary": 97000,
+      "married": false,
+      "id": 6
+    },
+    {
+      "name": "abc",
+      "email": "Dr@gmail.com",
+      "salary": "12343535",
+      "married": "true",
+      "id": 7
+    },
+    {
+      "name": "Preeto",
+      "email": "bob32@gmail.com",
+      "salary": 57000,
+      "married": true,
+      "id": 8
+    },
+    {
+      "name": "Sne",
+      "email": "demo@gmail.com",
+      "salary": 23000,
+      "married": false,
+      "id": 9
+    },
+    {
+      "name": "Meow",
+      "email": "demo12@gmail.com",
+      "salary": 23000,
+      "married": false,
+      "id": 10
+    }
+  ],
+  "SWAGGER": [
+    {
+      "id": 1,
+      "username": "aa",
+      "firstName": "assssa",
+      "lastName": "aa",
+      "email": "aa",
+      "password": "aa",
+      "phone": "999",
+      "userStat": "11"
+    }
+  ],
+  "fruits": [
+    "apple",
+    "orange",
+    "pear"
+  ],
+  "vegetables": [
+    {
+      "veggieName": "potato",
+      "veggieLike": true
+    },
+    {
+      "veggieName": "broccoli",
+      "veggieLike": false
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
